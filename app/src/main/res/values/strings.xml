@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">RecognitionClient</string>
+    <string name="disclaimer">Disclaimer: This app is currently not secure. We are using a fixed short list of possible emails to test the prototype. This can change when we trasnsfer the app to NASA\'s database.
+We are going to solve the problem of security, unique user identifiers and overwriting of images later.</string>
+    <string name="email">Email :</string>
+    <string name="welcome">Welcome</string>
+    <string name="valid_email">Email is not valid\n\nMake sure you don\'t have any trailing spaces at the end</string>
+    <string name="next">Next</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="image_upload">Upload Image</string>
+    <string name="permission_denied">The permissions needed to run this part of the app were denied</string>
+    <string name="error_dialog">Image upload failed.\n\n
+        You may need to update this app to upload images.\n\n
+        Please contact jpablomch@gmail.com"</string>
+    <string name="no_gps">GPS is not turned on. Please turn it on in your settings to continue</string>
+    <string name="no_items_or_internet">No images uploaded\n\nor\n\nno internet</string>
+    <string name="searching_gps">Searching for location...</string>
+    <string name="found_gps_last">Using a location found previously</string>
+    <string name="gps_timeout">Location finding timed out\n\nPlease try again</string>
+    <string name="gps_timeout_with_prev">Location finding timed out\nUsing a location found previously</string>
+    <string name="pending">Pending Validation</string>
+    <string name="accepted">Accepted</string>
+    <string name="rejected">Rejected</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Need an account?</string>
+    <string name="has_account">Already have an account?</string>
+    <string name="register">Register</string>
+    <string name="uploaded">Image sent to Recognition Module\n\nTake/Pick another picture?</string>
+</resources>

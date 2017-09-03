@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aedes_egg"
+        android:title="Aedes Egg"/>
+
+    <item
+        android:id="@+id/aedes_larvae"
+        android:title="Aedes Larvae"/>
+
+    <item
+        android:id="@+id/aedes_pupa"
+        android:title="Aedes Pupa"/>
+
+    <item
+        android:id="@+id/anopheles_egg"
+        android:title="Anopheles Egg"/>
+
+    <item
+        android:id="@+id/anopheles_larvae"
+        android:title="Anopheles Larvae"/>
+
+    <item
+        android:id="@+id/anopheles_pupa"
+        android:title="Anopheles Pupa"/>
+
+    <item
+        android:id="@+id/culex_egg"
+        android:title="Culex Egg"/>
+
+    <item
+        android:id="@+id/culex_larvae"
+        android:title="Culex Larvae"/>
+
+    <item
+        android:id="@+id/culex_pupa"
+        android:title="Culex Pupa"/>
+
+    <item
+        android:id="@+id/water_line"
+        android:title="Water Line"/>
+
+</menu>
